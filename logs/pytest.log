@@ -1,0 +1,15 @@
+WARNING  2025-09-20 17:36:22 [pytest_result_log:122] : ------------Start: testcases/test_collect_news.py::test_collect_succ------------
+INFO     2025-09-20 17:37:25 [pytest_result_log:190] : test status is PASSED (testcases/test_collect_news.py::test_collect_succ): 
+WARNING  2025-09-20 17:37:25 [pytest_result_log:128] : -------------End: testcases/test_collect_news.py::test_collect_succ-------------
+WARNING  2025-09-20 17:37:31 [pytest_result_log:122] : ------------Start: testcases/test_comment_news.py::test_comment_fail------------
+INFO     2025-09-20 17:37:44 [pytest_result_log:190] : test status is PASSED (testcases/test_comment_news.py::test_comment_fail): 
+WARNING  2025-09-20 17:37:44 [pytest_result_log:128] : -------------End: testcases/test_comment_news.py::test_comment_fail-------------
+WARNING  2025-09-20 17:37:44 [pytest_result_log:122] : ------------Start: testcases/test_comment_news.py::test_comment_succ------------
+INFO     2025-09-20 17:38:19 [pytest_result_log:190] : test status is PASSED (testcases/test_comment_news.py::test_comment_succ): 
+WARNING  2025-09-20 17:38:19 [pytest_result_log:128] : -------------End: testcases/test_comment_news.py::test_comment_succ-------------
+WARNING  2025-09-20 17:38:24 [pytest_result_log:122] : ----------------Start: testcases/test_login.py::test_login_fail-----------------
+INFO     2025-09-20 17:38:31 [pytest_result_log:190] : test status is PASSED (testcases/test_login.py::test_login_fail): 
+WARNING  2025-09-20 17:38:31 [pytest_result_log:128] : -----------------End: testcases/test_login.py::test_login_fail------------------
+WARNING  2025-09-20 17:38:31 [pytest_result_log:122] : -----------------Start: testcases/test_login.py::test_login_ok------------------
+INFO     2025-09-20 17:38:39 [pytest_result_log:190] : test status is PASSED (testcases/test_login.py::test_login_ok): 
+WARNING  2025-09-20 17:38:39 [pytest_result_log:128] : ------------------End: testcases/test_login.py::test_login_ok-------------------
