@@ -6,7 +6,6 @@ import pytest
 from commons.login_page import LoginPage
 from commons.config import conf  # 导入配置
 
-
 # 抓包包名
 # driver = webdriver.Remote('http://127.0.0.1:4723',options=UiAutomator2Options())
 # print("包名：",driver.current_package)
