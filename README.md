@@ -1,8 +1,8 @@
-Mobile Automation Testing Framework
+# 🚀 Mobile Automation Testing Framework
 
-A professional, cross-platform mobile automation testing framework built with Python + Appium + Pytest + Allure + Logging. Designed following the Page Object Model (POM) pattern for maximum scalability, maintainability, and code reusability.
+A professional, cross-platform mobile automation testing framework built with **Python**, **Appium**, **Pytest**, **Allure**, and robust **Logging**. Designed following the **Page Object Model (POM)** pattern for maximum scalability, maintainability, and code reusability.
 
-Supports both Android and iOS platforms, making it ideal for:
+Supports both **Android** and **iOS** platforms, making it ideal for:
 - Functional testing
 - Regression testing
 - CI/CD pipeline integration
